@@ -6,9 +6,8 @@
 
 <a href="https://juliadooby.github.io/Fashion-cataloque/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Fashion-cataloque/blob/main/Cataq_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Fashion-cataloque/blob/main/Cataq_2.JPG" width="100%" height="20%"></img></div>
 
 ---
 
